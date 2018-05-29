@@ -1,2 +1,2 @@
 # Core
-Base repository
+Base repository of all my shit
